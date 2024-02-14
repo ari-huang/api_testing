@@ -1,0 +1,11 @@
+# project name
+project_name: main
+
+# 並行測試
+process: 0
+
+# 超出失敗次數停止測試
+maxfail: 20
+
+# API 間隔時間
+interval: 0

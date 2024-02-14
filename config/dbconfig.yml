@@ -1,0 +1,6 @@
+PyDemo:
+  timeout: 30
+  mysql_info:
+    address:
+    user: test
+    auth: test
